@@ -17,4 +17,4 @@ c) This information could be applied to voting prediction models by analyzing wh
 
 Video: https://youtu.be/9aFK0X7AW3M
 
-Final Report: 
+Final Report: https://github.com/coopdog95/4502Project/blob/master/07_LivingComfy_Part4.pdf
