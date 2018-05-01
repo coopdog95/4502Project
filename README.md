@@ -18,3 +18,13 @@ c) This information could be applied to voting prediction models by analyzing wh
 Video: https://youtu.be/9aFK0X7AW3M
 
 Final Report: https://github.com/coopdog95/4502Project/blob/master/07_LivingComfy_Part4.pdf
+
+Instructions for viewing visualization:
+
+$ sudo apt-get install mapbox
+
+within website directory:
+
+$ python3 -m http.server <PORT NUMBER> 
+
+then go to localhost:<PORT NUMBER> to view visualization. Note: slider year doesn't change on the screen, but the files do change from 2005 in the beginning of the slider, 2010 at the absolute middle, to 2015 at the end.
